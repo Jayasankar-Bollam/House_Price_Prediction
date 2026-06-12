@@ -62,7 +62,7 @@ House_Prediction_Project/
 **Clone the repository**
 
 ```bash
-git clone https://github.com/madiboyinakalyan/House_Price_Prediction.git
+git clone https://github.com/Jayasankar-Bollam/House_Price_Prediction.git
 cd House_Prediction_Project
 ```
 
@@ -155,4 +155,4 @@ MIT
 
 ## Author
 
-Built by **Madiboyina Kalyan** — [github.com/madiboyinakalyan](https://github.com/madiboyinakalyan)
+Built by **Jayasankar Bollam** — [github.com/JayasankarBollam](https://github.com/Jayasankar-Bollam)
